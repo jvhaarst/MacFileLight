@@ -1,0 +1,29 @@
+{
+    IBClasses = (
+        {
+            ACTIONS = {cancelScan = id; open = id; }; 
+            CLASS = FLController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {progress = id; scanDisplay = id; sizer = id; tabView = id; window = id; }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = FLDirectoryDataSource; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            ACTIONS = {copyPath = id; open = id; reveal = id; trash = id; zoom = id; }; 
+            CLASS = FLView; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                contextMenu = id; 
+                controller = id; 
+                dataSource = id; 
+                locationDisplay = id; 
+                sizeDisplay = id; 
+            }; 
+            SUPERCLASS = NSView; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {CLASS = NSObject; LANGUAGE = ObjC; }, 
+        {CLASS = NSView; LANGUAGE = ObjC; SUPERCLASS = NSResponder; }
+    ); 
+    IBVersion = 1; 
+}

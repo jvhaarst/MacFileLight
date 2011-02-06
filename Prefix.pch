@@ -1,0 +1,17 @@
+/* Copyright (C) 1996 Dave Vasilevsky
+* This file is licensed under the GNU General Public License,
+* see the file Copying.txt for details. */
+
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <sys/param.h>
+#include <sys/mount.h>
+#include <errno.h>
+#include <string.h>
+#include <fts.h>
+
+#include <Carbon/Carbon.h>
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

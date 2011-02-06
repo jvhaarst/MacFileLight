@@ -1,0 +1,20 @@
+Version 0.2 - 2006-10-03
+
+* Scanning
+	- Directories are scanned three times faster.
+	- A progress bar is shown while scanning.
+
+* Drawing
+	- The sizes of files and directories are now displayed.
+	- Prettier, lower-contrast colours are used.
+	- Files are distinguished from directories by displaying in grayscale.
+	- When the cursor is over a clickable object, it changes to a hand.
+
+* Interaction
+	- When a directory is clicked on, the view zooms in.
+	- Right-clicking gives a context-menu, where you can:
+		+ Open files
+		+ Reveal files in the Finder
+		+ Trash files
+		+ Copy a file's path to the clipboard
+	- A toolbar lets you view the parent directory, or refresh the view.
