@@ -231,6 +231,8 @@
 			<key>Layout</key>
 			<array>
 				<dict>
+					<key>BecomeActive</key>
+					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -265,7 +267,10 @@
 						<key>PBXSmartGroupTreeModuleOutlineStateKey_v7</key>
 						<dict>
 							<key>PBXSmartGroupTreeModuleOutlineStateExpansionKey</key>
-							<array/>
+							<array>
+								<string>29B97314FDCFA39411CA2CEA</string>
+								<string>1C37FBAC04509CD000000102</string>
+							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
@@ -353,6 +358,8 @@
 									<dict>
 										<key>Frame</key>
 										<string>{{10, 27}, {1073, 823}}</string>
+										<key>RubberWindowFrame</key>
+										<string>0 106 1280 896 0 0 1280 1002 </string>
 									</dict>
 									<key>Module</key>
 									<string>XCDetailModule</string>
@@ -407,8 +414,6 @@
 									<dict>
 										<key>Frame</key>
 										<string>{{10, 27}, {1073, 823}}</string>
-										<key>RubberWindowFrame</key>
-										<string>0 106 1280 896 0 0 1280 1002 </string>
 									</dict>
 									<key>Module</key>
 									<string>PBXBuildResultsModule</string>
@@ -436,11 +441,11 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>89FE5A0412FF5EDC00F960C3</string>
+				<string>893F44F413045B6A0063C13F</string>
 				<string>1CA23ED40692098700951B8B</string>
-				<string>89FE5A0512FF5EDC00F960C3</string>
+				<string>893F44F513045B6A0063C13F</string>
 				<string>89FE59FE12FF5EB300F960C3</string>
-				<string>89FE5A0612FF5EDC00F960C3</string>
+				<string>893F44F613045B6A0063C13F</string>
 				<string>1CA23EDF0692099D00951B8B</string>
 				<string>1CA23EE00692099D00951B8B</string>
 				<string>1CA23EE10692099D00951B8B</string>
@@ -589,13 +594,13 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>89FE5A0712FF5EDC00F960C3</string>
+				<string>895141181301FA9600762A2D</string>
 				<string>1CCC7628064C1048000F2A68</string>
 				<string>1CCC7629064C1048000F2A68</string>
-				<string>89FE5A0812FF5EDC00F960C3</string>
-				<string>89FE5A0912FF5EDC00F960C3</string>
-				<string>89FE5A0A12FF5EDC00F960C3</string>
-				<string>89FE5A0B12FF5EDC00F960C3</string>
+				<string>895141191301FA9600762A2D</string>
+				<string>8951411A1301FA9600762A2D</string>
+				<string>8951411B1301FA9600762A2D</string>
+				<string>8951411C1301FA9600762A2D</string>
 				<string>89FE59FE12FF5EB300F960C3</string>
 			</array>
 			<key>ToolbarConfigUserDefaultsMinorVersion</key>
@@ -630,8 +635,6 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>89FE5A0D12FF5EDC00F960C3</string>
-		<string>89FE5A0E12FF5EDC00F960C3</string>
 		<string>/Volumes/Home Directory/bin/scripts/macfilelight/Filelight.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
